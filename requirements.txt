@@ -1,0 +1,4 @@
+# Python dependencies for WGC Screenshot Library
+numpy>=1.21.0
+opencv-python>=4.5.0
+psutil>=5.8.0
